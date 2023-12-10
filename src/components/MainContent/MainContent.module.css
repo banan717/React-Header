@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+.someText {
+    color: #FFF;
+    text-align: center;
+    line-height: normal;
+    margin-top: 5%;
+    font-family: 'Roboto', sans-serif;
+    margin-bottom: 50px; 
+}
